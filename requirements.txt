@@ -6,5 +6,8 @@ scikit-learn
 openpyxl
 seaborn
 scipy
-joblib 
+joblib
 xgboost
+plotly
+statsmodels
+lightgbm
